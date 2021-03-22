@@ -1,6 +1,9 @@
 # robocar
 DIY Robocar with RaspberryPi and Pi Camera
 
+## Project Display
+![image](https://github.com/YU-Anthony/robocar/blob/master/images/robocar.gif)
+
 ## Hardware
 * Raspberry Pi 3 Model B/B+
 * Adafruit DC & Stepper Motor HAT for Raspberry Pi
